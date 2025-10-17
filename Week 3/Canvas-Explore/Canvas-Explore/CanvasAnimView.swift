@@ -7,6 +7,7 @@ let lineWidth = 2.0
 let colorSpecs = [Color.pink, Color.cyan, Color.yellow, Color.orange, Color.purple, Color.green]
 
 var loc = CGPoint.zero
+var isAnimation:Bool = true
 var nsize: CGSize = .zero
 
 struct PathData {
