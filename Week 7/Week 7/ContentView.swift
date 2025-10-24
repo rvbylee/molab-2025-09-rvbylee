@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  Week-4-sound
+//  Week 7
 //
-//  Created by Ruby Lee on 10/17/25.
+//  Created by Ruby Lee on 10/24/25.
 //
 
 import SwiftUI

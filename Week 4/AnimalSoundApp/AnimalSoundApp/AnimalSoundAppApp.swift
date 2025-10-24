@@ -1,14 +1,14 @@
 //
-//  Week_4_soundApp.swift
-//  Week-4-sound
+//  AnimalSoundAppApp.swift
+//  AnimalSoundApp
 //
-//  Created by Ruby Lee on 10/17/25.
+//  Created by Ruby Lee on 10/24/25.
 //
 
 import SwiftUI
 
 @main
-struct Week_4_soundApp: App {
+struct AnimalSoundAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
