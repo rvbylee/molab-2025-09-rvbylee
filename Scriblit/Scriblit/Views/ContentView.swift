@@ -5,8 +5,8 @@
 import SwiftUI
 
 struct ContentView: View {
-    @EnvironmentObject var store: ScribStore    // 👈 now coming from ScriblitApp
-
+    @EnvironmentObject var store: ScribStore
+    
     var body: some View {
         ZStack {
             // Background grid image
@@ -34,7 +34,7 @@ struct ContentView: View {
 
 #Preview {
     ContentView()
-        .environmentObject(ScribStore())    // 👈 needed for preview to compile
+        .environmentObject(ScribStore())    //needed for preview to compile
 }
 
 
